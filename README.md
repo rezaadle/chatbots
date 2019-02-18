@@ -5,3 +5,5 @@ When done well, interacting with a computer through human language is incredibly
 These mini-programs will get you started on the path towards building such applications!
 
 * __EchoBot__ just responds by replying with the same message it receives.
+
+* __Chitchat__ program can answer simple questions such as "What's your name?" and "What's today's weather?"
